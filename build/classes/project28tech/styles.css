@@ -1,0 +1,43 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+#btnHome {
+    -fx-text-fill: #fff;
+}
+
+#btnHome:hover {
+    -fx-text-fill: #00adef;
+}
+
+#btnZoomCourses {
+    -fx-text-fill: #fff;
+    
+}
+#btnZoomCourses:hover {
+    -fx-text-fill: #00adef;
+}
+
+
+#btnTutorial {
+    -fx-text-fill: #fff;
+}
+
+#btnTutorial:hover {
+    -fx-text-fill: #00adef;
+}
+
+#btnCTAA {
+    -fx-pref-tile-width: 214px;
+    -fx-pref-tile-height: 47px;
+    -fx-font: 18px "Arial";
+}
+
+#btnCTAA:hover {
+    -fx-font: 18px "Arial";
+    -fx-background-color: #000;
+}
