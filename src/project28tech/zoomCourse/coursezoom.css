@@ -1,0 +1,31 @@
+.root { 
+    -fx-background-color: #7AB2D3;
+}
+
+.menuBar {
+    -fx-background-color: rgba(39, 46, 63, 1); 
+}
+
+.pane {
+    -fx-background-color: rgba(39, 46, 63, 1); 
+}
+
+.menu {
+    -fx-text-fill: #FFFFFF; /* Màu chữ trắng cho menu */
+}
+
+.text {
+    -fx-text-fill: #FFFFFF; /* Màu chữ trắng cho các thành phần văn bản */
+}
+
+.label { 
+    -fx-text-fill: #FFFFFF;
+}
+
+.mainFxmlClass {
+    -fx-background-color: #B8D8E7; /* Thêm màu nền cho lớp này */
+    -fx-border-color: #4A628A; /* Màu viền */
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-text-fill: #333333; /* Màu chữ xám đậm */
+}
